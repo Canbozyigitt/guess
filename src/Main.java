@@ -39,9 +39,9 @@ public class Main {
             } else {
                 System.out.println("Hatalı bir sayı girdiniz !");
                 if (selected > number) {
-                    System.out.println(selected + " sayısı, gizli sayıdan büyüktür.");
+                    System.out.println(selected + " sayısı, gizli sayıdan büyüktür...");
                 } else {
-                    System.out.println(selected + " sayısı, gizli sayıdan küçüktür.");
+                    System.out.println(selected + " sayısı, gizli sayıdan küçüktür...");
                 }
 
                 wrong[right++] = selected;
