@@ -27,7 +27,7 @@ public class Main {
                     System.out.println("Çok fazla hatalı giriş yaptınız. Kalan hak : " + (5 - right));
                 } else {
                     isWrong = true;
-                    System.out.println("Bir daha hatalı girişinizde hakkınızdan düşülecektir.");
+                    System.out.println("Bir daha hatalı girişinizde hakkınızdan düşülecektir...");
                 }
                 continue;
             }
